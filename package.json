@@ -2,7 +2,7 @@
   "name": "suraj-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<your-github-username>.github.io/suraj-portfolio",
+  "homepage": "https://sbm-11-sfdc.github.io/suraj-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
