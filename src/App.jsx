@@ -51,9 +51,10 @@ export default function App() {
             </p>
 
             <div className="actions">
-              <a className="btn btn-outline" href="/resume.pdf" download>
-                Download Resume
+              <a className="btn btn-outline" href="Suraj_Mahale_Resume.pdf" download="Suraj_Mahale_Resume.pdf">
+              Download Resume
               </a>
+
               <a className="btn btn-primary" href="#contact">
                 Contact Me
               </a>
