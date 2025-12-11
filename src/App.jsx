@@ -62,12 +62,12 @@ export default function App() {
           </div>
 
           <div className="hero-right" aria-hidden="true">
-            <img
-              src="/images/profile.jpg"
-              alt="Suraj Mahale"
-              style={{ width: "100%", height: "100%", objectFit: "cover" }}
-            />
-          </div>
+          <img
+            src="images/profile.jpg"
+            alt="Suraj Mahale"
+            style={{ width: "100%", height: "100%", objectFit: "cover" }}
+          />
+        </div>
         </div>
       </section>
 
